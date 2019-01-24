@@ -12,6 +12,6 @@ it reduces your code writing, like:
 <code>docment.getElementsByClassName('element')</code>  <code>$c('element')</code> 
 
 
-to use it in your website:
+to use it in your website: 
 
 <code><script src="https://raw.githubusercontent.com/Ahmed-E-Elswerkey/simple-js/master/lib.js"></script></code>
