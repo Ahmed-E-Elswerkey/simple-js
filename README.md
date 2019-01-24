@@ -1,7 +1,7 @@
 
 The simple library is a small and easy to understand and use
 
-it reduces your code writing, like:
+it currently reduces your code writing, in:
 
   From                                                  To
   
